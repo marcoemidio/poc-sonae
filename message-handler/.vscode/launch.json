@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MessageHandlerApplication",
+            "request": "launch",
+            "mainClass": "pt.sonae.bit.messagehandler.MessageHandlerApplication",
+            "projectName": "message-handler"
+        }
+    ]
+}
